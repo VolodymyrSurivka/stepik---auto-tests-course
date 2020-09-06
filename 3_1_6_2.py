@@ -30,3 +30,4 @@ finally:
     time.sleep(20)
     # закрываем браузер после всех манипуляций
     browser.quit()
+# for git
