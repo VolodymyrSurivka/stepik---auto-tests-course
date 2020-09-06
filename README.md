@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
-Home works
-add my readme
+My Home works.
+Add my readme file changing.
